@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Autobiography</title>
+    <link rel=".git" href=".gitattributes">
+</head>
+<body>
+
+<header>
+    <h1>MY AUTOBIOGRAPHY</h1>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#hobbies">My Hobbies</a>
+        <a href="#favorites">My Favorites</a>
+    </nav>
+</header>
+
+<div class="container">
+
+    <div class="column left">
+        <section id="about">
+            <h2>About Myself</h2>
+            <img src="c:\Users\ComLab2-28\Documents\gitu\richard\richard-tabiola\richard.jpg" width="100" alt="Profile">
+            <p><strong>Name:</strong> RICHARD TABIOLA</p>
+            <p><strong>Birthdate:</strong> AUGUST 4 2002</p>
+            <p><strong>Address:</strong> Brgy MALPOC, Buenavista Agusan Del Norte</p>
+            <p><strong>Course and Year level:</strong> BSIS 2</p>
+        </section>
+
+        <section>
+            <h2>My Childhood</h2>
+            <p>
+                My childhood was simple and meaningful. It was a time when I learned values
+                such as respect, honesty, and kindness.
+            </p>
+        </section>
+
+        <section>
+            <h2>My Teenage Life</h2>
+            <p>
+                My teenage life was full of changes and challenges. During this time,
+                I learned how to be independent and responsible.
+            </p>
+        </section>
+    </div>
+
+    <div class="column right">
+        <section>
+            <h2>My Adulthood</h2>
+            <p>
+                Adulthood is a stage where I learn to take responsibility for my actions
+                and decisions. It is a time when I begin to focus more on my goals and
+                future plans.
+            </p>
+        </section>
+
+        <section id="hobbies">
+            <h2>My Hobbies</h2>
+            <ul>
+                <li>Playing online games</li>
+                <li>Watching movies and anime</li>
+                <li>Reading comics and manhwa</li>
+            </ul>
+        </section>
+
+        <section id="favorites">
+            <h2>My Favorites</h2>
+
+            <p><strong>Artist:</strong> Daniel Caesar</p>
+            <img src="2.webp" width="100" alt="Artist Image">
+
+            <p><strong>Food:</strong> Chicken</p>
+            <img src="c:\Users\ComLab2-28\Documents\gitu\richard\richard-tabiola\fried chicken.jpg" width="100" alt="Food Image">
+
+            <p><strong>Place:</strong> Siargao</p>
+            <img src="1.jpg" width="100" alt="Siargao Image">
+
+            <p><strong>Animal:</strong> Dog</p>
+            <img src="c:\Users\ComLab2-28\Documents\gitu\richard\richard-tabiola\dog.jpg" width="100" alt="Animal Image">
+
+            
+        </section>
+    </div>
+
+</div>
+
+</body>
+</html>
+# Auto detect text files and perform LF normalization
+* text=auto
